@@ -1,3 +1,3 @@
 # hello-world
-Práctica
+Hey
 I'm Daniela and I live in Costa Rica. 
